@@ -1,7 +1,7 @@
 # A dead simple AppleScript to shutdown macOS
 
 ### Why?
-I recently changed my moved from Windows 10 to macOS Catalina, and started tinkering around its features. One fine day I thought that spending *3 seconds* to shut down using this lame process 😑:
+I recently moved from Windows 10 to macOS Catalina, and started tinkering around its features. One fine day I thought that spending *3 seconds* to shut down using this lame process 😑:
 <br />
 
 	 → Shut Down... → Shut Down
